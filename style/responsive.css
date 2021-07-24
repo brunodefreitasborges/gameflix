@@ -1,0 +1,25 @@
+@media screen and (max-width:600px){
+    header .container {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+
+
+    .botao {
+        margin-top: 5px;
+        width: 300px;
+        
+    }
+
+    .carrosel-games {
+        margin: 5%;
+        
+    }
+}
+
+@media screen and (min-width:1000px) {
+    .descricao {
+        width: 50%;
+    }
+}
