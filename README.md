@@ -6,3 +6,4 @@ Meu toque pessoal foi modificar o conteúdo para exibir diferentes jogos para PC
 
 A página está online no GitHub Pages <a href="https://brunodefreitasborges.github.io/gamerflix/">clicando aqui.</a>
 
+![alt text](https://github.com/brunodefreitasborges/gamerflix/blob/main/mypages.png?raw=true)
